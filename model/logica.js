@@ -1,6 +1,21 @@
+
+
+ 
+var cuadrados=new Cuadrado(50,30,50);
+    
+
+function pintarTodo(){
+ 
+    console.log("holaa");
+    cuadrados.pintar();
+}
+
+
+
+/*
 let enviar; 
 let num;
-var numero2;
+let numero2;
 num=document.querySelector(".number");
 enviar=document.querySelector(".enviar");
 
@@ -15,3 +30,6 @@ function enviameEsto(){
         alert ("Sólo numeros entre 1 y 10");
     }
 }
+*/
+
+
